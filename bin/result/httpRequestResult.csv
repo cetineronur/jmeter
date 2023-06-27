@@ -1,0 +1,6 @@
+firstname;lastname
+onur;cetiner
+recep;alagoz
+1686559589314,552,HTTP Request,200,OK,Thread Group 1-1,text,true,,18694,228,1,1,http://www.google.com/,242,0,107
+1686559589314,245,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,773,112,1,1,http://google.com/,242,0,107
+1686559589561,305,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,17921,116,1,1,http://www.google.com/,268,0,40

@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686138745370,805,/-590,200,OK,Saascom:_Recorder 1-1,text,true,,5762,479,5,5,https://www.automationexercise.com/,805,0,128
+1686138746176,208,/login-639,403,Forbidden,Saascom:_Recorder 1-1,text,false,,2094,789,5,5,https://www.automationexercise.com/login,208,0,0
+1686138745571,825,/-590,200,OK,Saascom:_Recorder 1-2,text,true,,5750,479,5,5,https://www.automationexercise.com/,825,0,130
+1686138745775,795,/-590,200,OK,Saascom:_Recorder 1-3,text,true,,5745,479,5,5,https://www.automationexercise.com/,795,0,132
+1686138746398,219,/login-639,403,Forbidden,Saascom:_Recorder 1-2,text,false,,2090,789,5,5,https://www.automationexercise.com/login,219,0,0
+1686138746571,205,/login-639,403,Forbidden,Saascom:_Recorder 1-3,text,false,,2096,789,5,5,https://www.automationexercise.com/login,205,0,0
+1686138745969,823,/-590,200,OK,Saascom:_Recorder 1-4,text,true,,5754,479,5,5,https://www.automationexercise.com/,823,0,137
+1686138746170,802,/-590,200,OK,Saascom:_Recorder 1-5,text,true,,5755,479,5,5,https://www.automationexercise.com/,802,0,114
+1686138746793,215,/login-639,403,Forbidden,Saascom:_Recorder 1-4,text,false,,2092,789,5,5,https://www.automationexercise.com/login,215,0,0
+1686138746972,206,/login-639,403,Forbidden,Saascom:_Recorder 1-5,text,false,,2092,789,5,5,https://www.automationexercise.com/login,206,0,0
+1686138746385,923,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-1,text,false,,61351,538,5,5,https://www.automationexercise.com/logout,520,0,0
+1686138746618,732,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-2,text,false,,61344,538,5,5,https://www.automationexercise.com/logout,520,0,0
+1686138747309,234,/-590,200,OK,Saascom:_Recorder 1-1,text,true,,5757,479,5,5,https://www.automationexercise.com/,234,0,0
+1686138746777,837,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-3,text,false,,61342,538,5,5,https://www.automationexercise.com/logout,573,0,0
+1686138747352,262,/-590,200,OK,Saascom:_Recorder 1-2,text,true,,5752,479,5,5,https://www.automationexercise.com/,262,0,0
+1686138747543,217,/login-639,403,Forbidden,Saascom:_Recorder 1-1,text,false,,2096,789,5,5,https://www.automationexercise.com/login,217,0,0
+1686138747615,234,/login-639,403,Forbidden,Saascom:_Recorder 1-2,text,false,,2096,789,5,5,https://www.automationexercise.com/login,234,0,0
+1686138747178,693,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-5,text,false,,61366,538,5,5,https://www.automationexercise.com/logout,530,0,0
+1686138747615,279,/-590,200,OK,Saascom:_Recorder 1-3,text,true,,5750,479,5,5,https://www.automationexercise.com/,279,0,0
+1686138747872,236,/-590,200,OK,Saascom:_Recorder 1-5,text,true,,5749,479,5,5,https://www.automationexercise.com/,236,0,0
+1686138747009,1115,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-4,text,false,"Die Operation dauerte zu lang: es wurden 1.115 Millisekunden benötigt, hätte aber maximal 1.000 Millisekunden dauern dürfen.",61348,538,5,5,https://www.automationexercise.com/logout,658,0,0
+1686138747894,236,/login-639,403,Forbidden,Saascom:_Recorder 1-3,text,false,,2091,789,5,5,https://www.automationexercise.com/login,236,0,0
+1686138747761,534,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-1,text,false,,61368,538,5,5,https://www.automationexercise.com/logout,369,0,0
+1686138748108,232,/login-639,403,Forbidden,Saascom:_Recorder 1-5,text,false,,2091,789,4,4,https://www.automationexercise.com/login,232,0,0
+1686138748124,258,/-590,200,OK,Saascom:_Recorder 1-4,text,true,,5751,479,4,4,https://www.automationexercise.com/,258,0,0
+1686138747850,563,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-2,text,false,,61353,538,4,4,https://www.automationexercise.com/logout,406,0,0
+1686138748382,202,/login-639,403,Forbidden,Saascom:_Recorder 1-4,text,false,,2102,789,3,3,https://www.automationexercise.com/login,202,0,0
+1686138748131,547,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-3,text,false,,61349,538,3,3,https://www.automationexercise.com/logout,395,0,0
+1686138748340,544,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-5,text,false,,61349,538,2,2,https://www.automationexercise.com/logout,389,0,0
+1686138748584,986,/logout-671,500,Internal Server Error,Saascom:_Recorder 1-4,text,false,,61349,538,1,1,https://www.automationexercise.com/logout,691,0,0
+1686158960982,846,/-806,200,OK,Saascom:_Recorder 1-1,text,true,,5753,537,5,5,https://www.automationexercise.com/,846,0,124
+1686158961176,810,/-806,200,OK,Saascom:_Recorder 1-2,text,true,,5764,537,5,5,https://www.automationexercise.com/,810,0,132
+1686158961828,199,/login-804,403,Forbidden,Saascom:_Recorder 1-1,text,false,,2085,789,5,5,https://www.automationexercise.com/login,199,0,0
+1686158961376,803,/-806,200,OK,Saascom:_Recorder 1-3,text,true,,5754,537,5,5,https://www.automationexercise.com/,803,0,131
+1686158961988,222,/login-804,403,Forbidden,Saascom:_Recorder 1-2,text,false,,2088,789,5,5,https://www.automationexercise.com/login,222,0,0
+1686158962027,236,/products-828,200,OK,Saascom:_Recorder 1-1,text,true,,5740,540,5,5,https://www.automationexercise.com/products,236,0,0
+1686158962179,204,/login-804,403,Forbidden,Saascom:_Recorder 1-3,text,false,,2092,789,5,5,https://www.automationexercise.com/login,204,0,0
+1686158961577,847,/-806,200,OK,Saascom:_Recorder 1-4,text,true,,5749,537,5,5,https://www.automationexercise.com/,847,0,145
+1686158962211,226,/products-828,200,OK,Saascom:_Recorder 1-2,text,true,,5745,540,5,5,https://www.automationexercise.com/products,226,0,0
+1686158962263,204,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-1,text,true,,964,448,5,5,https://www.automationexercise.com/add_to_cart/1,204,0,0
+1686158962425,204,/login-804,403,Forbidden,Saascom:_Recorder 1-4,text,false,,2088,789,5,5,https://www.automationexercise.com/login,204,0,0
+1686158962438,208,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-2,text,true,,974,448,5,5,https://www.automationexercise.com/add_to_cart/1,208,0,0
+1686158962383,271,/products-828,200,OK,Saascom:_Recorder 1-3,text,true,,5756,540,5,5,https://www.automationexercise.com/products,271,0,0
+1686158961776,888,/-806,200,OK,Saascom:_Recorder 1-5,text,true,,5762,537,5,5,https://www.automationexercise.com/,888,0,160
+1686158962468,201,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-1,text,true,,970,448,5,5,https://www.automationexercise.com/add_to_cart/2,201,0,0
+1686158962629,226,/products-828,200,OK,Saascom:_Recorder 1-4,text,true,,5745,540,5,5,https://www.automationexercise.com/products,226,0,0
+1686158962647,215,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-2,text,true,,972,448,5,5,https://www.automationexercise.com/add_to_cart/2,215,0,0
+1686158962664,205,/login-804,403,Forbidden,Saascom:_Recorder 1-5,text,false,,2096,789,5,5,https://www.automationexercise.com/login,205,0,0
+1686158962654,223,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-3,text,true,,960,448,5,5,https://www.automationexercise.com/add_to_cart/1,223,0,0
+1686158962877,218,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-3,text,true,,964,448,5,5,https://www.automationexercise.com/add_to_cart/2,218,0,0
+1686158962855,249,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-4,text,true,,964,448,5,5,https://www.automationexercise.com/add_to_cart/1,249,0,0
+1686158962870,251,/products-828,200,OK,Saascom:_Recorder 1-5,text,true,,5745,540,5,5,https://www.automationexercise.com/products,251,0,0
+1686158963104,212,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-4,text,true,,966,448,5,5,https://www.automationexercise.com/add_to_cart/2,212,0,0
+1686158963121,214,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-5,text,true,,966,448,5,5,https://www.automationexercise.com/add_to_cart/1,214,0,0
+1686158962670,735,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-1,text,false,,61358,547,5,5,https://www.automationexercise.com/logout,590,0,0
+1686158963335,204,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-5,text,true,,966,448,5,5,https://www.automationexercise.com/add_to_cart/2,204,0,0
+1686158962863,759,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-2,text,false,,61360,547,5,5,https://www.automationexercise.com/logout,595,0,0
+1686158963405,240,/-806,200,OK,Saascom:_Recorder 1-1,text,true,,5757,537,5,5,https://www.automationexercise.com/,240,0,0
+1686158963095,710,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-3,text,false,,61360,547,5,5,https://www.automationexercise.com/logout,559,0,0
+1686158963645,212,/login-804,403,Forbidden,Saascom:_Recorder 1-1,text,false,,2092,789,5,5,https://www.automationexercise.com/login,212,0,0
+1686158963624,248,/-806,200,OK,Saascom:_Recorder 1-2,text,true,,5759,537,5,5,https://www.automationexercise.com/,248,0,0
+1686158963316,702,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-4,text,false,,61355,547,5,5,https://www.automationexercise.com/logout,541,0,0
+1686158963806,232,/-806,200,OK,Saascom:_Recorder 1-3,text,true,,5751,537,5,5,https://www.automationexercise.com/,232,0,0
+1686158963858,232,/products-828,200,OK,Saascom:_Recorder 1-1,text,true,,5750,540,5,5,https://www.automationexercise.com/products,232,0,0
+1686158963873,219,/login-804,403,Forbidden,Saascom:_Recorder 1-2,text,false,,2090,789,5,5,https://www.automationexercise.com/login,219,0,0
+1686158963539,690,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-5,text,false,,61359,547,5,5,https://www.automationexercise.com/logout,538,0,0
+1686158964039,199,/login-804,403,Forbidden,Saascom:_Recorder 1-3,text,false,,2086,789,5,5,https://www.automationexercise.com/login,199,0,0
+1686158964018,236,/-806,200,OK,Saascom:_Recorder 1-4,text,true,,5765,537,5,5,https://www.automationexercise.com/,236,0,0
+1686158964090,214,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-1,text,true,,964,448,5,5,https://www.automationexercise.com/add_to_cart/1,214,0,0
+1686158964092,232,/products-828,200,OK,Saascom:_Recorder 1-2,text,true,,5756,540,5,5,https://www.automationexercise.com/products,232,0,0
+1686158964254,205,/login-804,403,Forbidden,Saascom:_Recorder 1-4,text,false,,2100,789,5,5,https://www.automationexercise.com/login,205,0,0
+1686158964229,255,/-806,200,OK,Saascom:_Recorder 1-5,text,true,,5765,537,5,5,https://www.automationexercise.com/,255,0,0
+1686158964238,260,/products-828,200,OK,Saascom:_Recorder 1-3,text,true,,5749,540,5,5,https://www.automationexercise.com/products,260,0,0
+1686158964304,198,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-1,text,true,,968,448,5,5,https://www.automationexercise.com/add_to_cart/2,198,0,0
+1686158964324,205,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-2,text,true,,966,448,5,5,https://www.automationexercise.com/add_to_cart/1,205,0,0
+1686158964459,217,/products-828,200,OK,Saascom:_Recorder 1-4,text,true,,5756,540,5,5,https://www.automationexercise.com/products,217,0,0
+1686158964484,204,/login-804,403,Forbidden,Saascom:_Recorder 1-5,text,false,,2083,789,5,5,https://www.automationexercise.com/login,204,0,0
+1686158964499,223,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-3,text,true,,968,448,5,5,https://www.automationexercise.com/add_to_cart/1,223,0,0
+1686158964529,205,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-2,text,true,,968,448,5,5,https://www.automationexercise.com/add_to_cart/2,205,0,0
+1686158964676,202,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-4,text,true,,964,448,5,5,https://www.automationexercise.com/add_to_cart/1,202,0,0
+1686158964688,226,/products-828,200,OK,Saascom:_Recorder 1-5,text,true,,5752,540,5,5,https://www.automationexercise.com/products,226,0,0
+1686158964723,224,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-3,text,true,,974,448,5,5,https://www.automationexercise.com/add_to_cart/2,224,0,0
+1686158964502,541,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-1,text,false,,61358,547,5,5,https://www.automationexercise.com/logout,392,0,0
+1686158964878,210,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-4,text,true,,964,448,4,4,https://www.automationexercise.com/add_to_cart/2,210,0,0
+1686158964914,213,/add_to_cart/1-852,200,OK,Saascom:_Recorder 1-5,text,true,,972,448,4,4,https://www.automationexercise.com/add_to_cart/1,213,0,0
+1686158964734,533,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-2,text,false,,61364,547,4,4,https://www.automationexercise.com/logout,376,0,0
+1686158965128,199,/add_to_cart/2-865,200,OK,Saascom:_Recorder 1-5,text,true,,962,448,3,3,https://www.automationexercise.com/add_to_cart/2,199,0,0
+1686158964947,553,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-3,text,false,,61359,547,3,3,https://www.automationexercise.com/logout,403,0,0
+1686158965088,589,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-4,text,false,,61363,547,2,2,https://www.automationexercise.com/logout,384,0,0
+1686158965327,537,/logout-910,500,Internal Server Error,Saascom:_Recorder 1-5,text,false,,61347,547,1,1,https://www.automationexercise.com/logout,385,0,0

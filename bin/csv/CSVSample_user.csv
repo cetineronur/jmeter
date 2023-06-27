@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686481999063,536,MyHomePage,200,OK,Users 1-1,text,true,,4921,117,3,3,http://lifecharger.org/,536,0,340
+1686481999265,403,MyHomePage,200,OK,Users 1-2,text,true,,4921,117,3,3,http://lifecharger.org/,403,0,190
+1686481999666,393,MyHomePage,200,OK,Users 1-4,text,true,,4921,117,3,3,http://lifecharger.org/,393,0,183
+1686481999865,1037,MyHomePage,200,OK,Users 1-5,text,true,,4921,117,2,2,http://lifecharger.org/,1037,0,182
+1686481999466,1739,MyHomePage,200,OK,Users 1-3,text,false,"The operation lasted too long: It took 1,739 milliseconds, but should not have lasted longer than 1,500 milliseconds.",4921,117,1,1,http://lifecharger.org/,1739,0,202

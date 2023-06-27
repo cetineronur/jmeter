@@ -1,0 +1,3 @@
+
+bin klasorunde iken 
+jmeter -n -t html_raporlama.jmx -l D:\apache-jmeter-5.5\bin\result\result.csv -e -o D:\apache-jmeter-5.5\bin\result

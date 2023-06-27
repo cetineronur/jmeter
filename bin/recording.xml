@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="340" it="0" lt="340" ct="154" ts="1687098819906" s="true" lb="-356" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" de="UTF-8" by="1086" sc="1" ec="0" ng="1" na="1" hn="onur">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Sun, 18 Jun 2023 14:33:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=bb2c7182183335b74a18d961fc865c6e4e1e20a0; expires=Sun, 25-Jun-2023 14:33:39 GMT; Max-Age=604800; path=/; domain=.files.fm; secure; HttpOnly; SameSite=None
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: *
+Access-Control-Max-Age: 1728000
+CF-Cache-Status: DYNAMIC
+Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=kb%2Fa38trfcdOlhV7V6v9n6HLEy5l1jmfgUE1qd9NCppymZzdXGjqpS4tcU747w3Uk2JhTk%2ButgGtX347GfVBiUNEwE%2FPoeH00qTm6RfopVwBw4NalcYPf4PGgZao&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+Server: cloudflare
+CF-RAY: 7d943fa4fe599b8c-FRA
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Sec-Fetch-Mode: navigate
+Referer: https://de.files.fm/?source=ads-de&amp;sourceAd=ads-de&amp;utm_source=ads-de&amp;utm_campaign=ads-de&amp;utm_term=ads-de&amp;gad=1&amp;gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K0P4js8qda5nIRIDc8Ep5brIjDuNW674Q4YgWiVTrnliWz0MbiYj-4aAg-aEALw_wcB
+Sec-Fetch-Site: same-origin
+Accept-Language: tr-TR,tr;q=0.8,en-US;q=0.5,en;q=0.3
+Origin: https://de.files.fm
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
+Sec-Fetch-Dest: iframe
+Content-Length: 1984
+Host: de.files.fm
+</requestHeader>
+  <responseData class="java.lang.String">1&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">Log=%7B%22ErrorObject%22%3A%7B%22isTrusted%22%3Atrue%2C%22lengthComputable%22%3Afalse%2C%22loaded%22%3A0%2C%22total%22%3A0%2C%22type%22%3A%22error%22%2C%22eventPhase%22%3A2%2C%22bubbles%22%3Afalse%2C%22cancelable%22%3Afalse%2C%22returnValue%22%3Atrue%2C%22defaultPrevented%22%3Afalse%2C%22composed%22%3Afalse%2C%22timeStamp%22%3A26801%2C%22cancelBubble%22%3Afalse%2C%22NONE%22%3A0%2C%22CAPTURING_PHASE%22%3A1%2C%22AT_TARGET%22%3A2%2C%22BUBBLING_PHASE%22%3A3%2C%22ALT_MASK%22%3A1%2C%22CONTROL_MASK%22%3A2%2C%22SHIFT_MASK%22%3A4%2C%22META_MASK%22%3A8%7D%2C%22XHRObject%22%3A%7B%22readyState%22%3A4%2C%22timeout%22%3A0%2C%22withCredentials%22%3Afalse%2C%22responseURL%22%3A%22%22%2C%22status%22%3A0%2C%22statusText%22%3A%22%22%2C%22responseType%22%3A%22%22%2C%22response%22%3A%22%22%2C%22responseText%22%3A%22%22%2C%22mozAnon%22%3Afalse%2C%22mozSystem%22%3Afalse%2C%22UNSENT%22%3A0%2C%22OPENED%22%3A1%2C%22HEADERS_RECEIVED%22%3A2%2C%22LOADING%22%3A3%2C%22DONE%22%3A4%7D%7D&amp;Navigator=%7B%22pdfViewerEnabled%22%3Atrue%2C%22doNotTrack%22%3A%22unspecified%22%2C%22maxTouchPoints%22%3A0%2C%22oscpu%22%3A%22Windows+NT+10.0%3B+Win64%3B+x64%22%2C%22vendor%22%3A%22%22%2C%22vendorSub%22%3A%22%22%2C%22productSub%22%3A%2220100101%22%2C%22cookieEnabled%22%3Atrue%2C%22buildID%22%3A%2220181001000000%22%2C%22webdriver%22%3Afalse%2C%22hardwareConcurrency%22%3A8%2C%22appCodeName%22%3A%22Mozilla%22%2C%22appName%22%3A%22Netscape%22%2C%22appVersion%22%3A%225.0+%28Windows%29%22%2C%22platform%22%3A%22Win32%22%2C%22userAgent%22%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F114.0%22%2C%22product%22%3A%22Gecko%22%2C%22language%22%3A%22tr-TR%22%2C%22onLine%22%3Atrue%7D&amp;Vars=&amp;Type=FILE_UPLOAD_XHR_ERROR&amp;Url=https%3A%2F%2Fde.files.fm%2F%3Fsource%3Dads-de%26sourceAd%3Dads-de%26utm_source%3Dads-de%26utm_campaign%3Dads-de%26utm_term%3Dads-de%26gad%3D1%26gclid%3DCj0KCQjw1rqkBhCTARIsAAHz7K0P4js8qda5nIRIDc8Ep5brIjDuNW674Q4YgWiVTrnliWz0MbiYj-4aAg-aEALw_wcB</queryString>
+  <java.net.URL>https://de.files.fm/post_log?token=cbddfa53ef026d67f0aad429c697527d</java.net.URL>
+</httpSample>
+
+</testResults>
